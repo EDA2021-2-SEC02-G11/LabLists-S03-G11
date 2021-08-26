@@ -1,3 +1,7 @@
+Estudiante 1: <br> Federico Melo Barrero <br> 202021525 <br> f.melo@uniandes.edu.co
+
+Estudiante 2: <br> Juan Camilo Prieto Avella <br> 201814815 <br> jc.prietoa@uniandes.edu.co
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
